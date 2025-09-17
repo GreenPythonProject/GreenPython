@@ -12,5 +12,5 @@ This stage refers to measuring equipment used to obtain the energy measurement d
 
 The DUT (Device Under Test) is the device on which the Python Scripts are run on. A Raspberry PI 5: 64-bit Quad-Core Arm Cortex-A76 Processor @2.4GHz, 8GB RAM, Raspbery PI OS-Lite, using Python 3.11. A Towards Electrics Instruments TPS-4000 Dual-Tracking Power Supply powers the DUT.  The multi-meter, Keithley DMM6650 1/2 Dig, is connected to the DUT.
 
-![Power Supply](/assets/Power_Supply.jpg=250x250)
+![Power Supply](/assets/Power_Supply.jpg =250x25)
 
